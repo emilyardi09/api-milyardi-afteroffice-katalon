@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET_list_user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>72f931e0-4ae1-4062-b743-8d255fb6db98</testCaseGuid>
+</TestCaseEntity>
